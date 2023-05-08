@@ -2,7 +2,7 @@
 
 Steps:
 
-1.  Install the [dayone CLI](http://dayoneapp.com/tools/cli-man/) tool.
+1.  Install the [dayone CLI]([http://dayoneapp.com/tools/cli-man](https://dayoneapp.com/guides/tips-and-tutorials/command-line-interface-cli/) tool.
 2.  Put `day_one_git_messages.sh` somewhere permanent in your file system.
     For example, `$HOME/bin/`
 3.  Edit `local.git2dayone.plist`. Replace `USERNAME` and
